@@ -21,7 +21,7 @@ int main() {
 	std::cout << "\n\n\n";
 
 
-	std::cin >> pleaseDontCloseThisProgram;
+	
 	
 
 
@@ -36,7 +36,7 @@ int main() {
 
 
 
-
+	std::cin >> pleaseDontCloseThisProgram;
 
 	return 0;
 }
