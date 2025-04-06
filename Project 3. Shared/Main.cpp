@@ -7,7 +7,7 @@ int main() {
 
 	std::string pleaseDontCloseThisProgram;
 
-	std::vector<int> vector1(100000);
+	std::vector<int> vector1(100);
 	for (int i = 0; i < vector1.size(); i++) {
 		vector1[i] = i + 1;
 	}
