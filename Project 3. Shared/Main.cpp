@@ -21,7 +21,7 @@ int main() {
 		}
 	}
 
-	std::cout << "\n\n\n";
+	std::printf("\n\n\n");
 
 	
 	
